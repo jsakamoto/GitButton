@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Git Buttons")]
-[assembly: AssemblyCopyright("GNU General Public License v.2.0")]
+[assembly: AssemblyCopyright("GNU General Public License v.3.0")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
