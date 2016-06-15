@@ -7,8 +7,8 @@
     <ProjectGuid>{8C7362F3-A09A-4026-94F2-A713ABC23643}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GitButtons</RootNamespace>
-    <AssemblyName>GitButtons</AssemblyName>
+    <RootNamespace>GitButton</RootNamespace>
+    <AssemblyName>GitButton</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>GitButtons.ico</ApplicationIcon>
+    <ApplicationIcon>GitButton.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -109,7 +109,7 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>AppSettings.cs</LastGenOutput>
     </Content>
-    <Content Include="GitButtons.ico" />
+    <Content Include="GitButton.ico" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

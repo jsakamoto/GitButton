@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GitButtons.Properties {
+namespace GitButton.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

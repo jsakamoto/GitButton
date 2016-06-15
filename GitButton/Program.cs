@@ -9,7 +9,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
-namespace GitButtons
+namespace GitButton
 {
     static class Program
     {

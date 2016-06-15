@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace GitButtons
+namespace GitButton
 {
     public partial class MainForm : Form
     {

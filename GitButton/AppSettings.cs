@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace GitButtons
+namespace GitButton
 {
     [System.Diagnostics.DebuggerNonUserCodeAttribute]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute]

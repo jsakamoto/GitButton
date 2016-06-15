@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GitButtons
+namespace GitButton
 {
     public class TGitWndStatusChangedEventArgs : EventArgs
     {

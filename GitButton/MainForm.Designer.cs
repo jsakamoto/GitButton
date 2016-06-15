@@ -1,4 +1,4 @@
-﻿namespace GitButtons
+﻿namespace GitButton
 {
     partial class MainForm
     {
